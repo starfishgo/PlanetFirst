@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import 'whatwg-fetch';
 
 class SignUpForm extends Component {
     constructor() {
